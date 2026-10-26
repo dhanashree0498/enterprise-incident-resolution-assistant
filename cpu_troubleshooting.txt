@@ -1,0 +1,14 @@
+High CPU Utilization Runbook
+
+Purpose:
+Investigate high CPU usage on production servers.
+
+Steps:
+1. Review CPU monitoring dashboards.
+2. Identify resource-intensive processes.
+3. Check recently deployed background jobs.
+4. Analyze application performance logs.
+5. Apply approved performance fixes.
+6. Monitor CPU utilization after remediation.
+
+Related Incident: INC-003

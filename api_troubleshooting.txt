@@ -1,0 +1,14 @@
+API Incident Troubleshooting Runbook
+
+Purpose:
+Investigate HTTP 500 errors in production APIs.
+
+Steps:
+1. Check API application logs for exceptions.
+2. Review recent deployment changes.
+3. Verify required environment variables.
+4. Test database connectivity.
+5. Check API health endpoints.
+6. Escalate if the root cause remains unknown.
+
+Related Incident: INC-001

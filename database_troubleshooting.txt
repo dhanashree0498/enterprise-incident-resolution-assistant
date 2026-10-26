@@ -1,0 +1,14 @@
+Database Connection Troubleshooting Runbook
+
+Purpose:
+Investigate database connection timeout errors.
+
+Steps:
+1. Review database connection metrics.
+2. Check active and idle connections.
+3. Inspect connection pool configuration.
+4. Identify potential connection leaks.
+5. Validate database availability.
+6. Escalate unresolved database incidents.
+
+Related Incident: INC-002
